@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'aquaculture_line'
+}
+
+item {
+  id: 2
+  name: 'aquaculture_raft'
+}
+
+item {
+  id: 3
+  name: 'aquaculture_pond'
+}
+
+item {
+  id: 4
+  name: 'aquaculture_cage'
+}
